@@ -88,5 +88,9 @@ https://velog.io/@lmg0052/series/Unity3D-3D-Action-RPG
 - **게임 플레이 영상 링크**: https://youtu.be/VYAuyTwwTZk
 <br><br/>
 
+## 다운로드
+- Windows 빌드(압축파일) 다운로드: https://drive.google.com/file/d/1jZhums8CYetd-BKdL3oa070c0YmOoKOD/view?usp=sharing
+  - 압축 해제 후 3D-Action-RPG.exe 실행
+  
 ## 연락처
 - **E-Mail**: qazzaq1541@gmail.com
